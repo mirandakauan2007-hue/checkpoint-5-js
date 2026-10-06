@@ -1,6 +1,5 @@
 import ListItem from './ListItem'
 
-// Componente List: recebe a lista (items) e a função de excluir (onDelete)
 function List({ items, onDelete }) {
   return (
     <div>
